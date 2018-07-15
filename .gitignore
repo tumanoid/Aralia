@@ -1,1 +1,7 @@
-#
+aralia.opensdf
+aralia.sdf
+aralia.suo
+aralia.vcxproj.*
+ipch
+Debug
+app/app.exe
