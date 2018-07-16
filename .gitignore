@@ -4,4 +4,4 @@ aralia.suo
 aralia.vcxproj.*
 ipch
 Debug
-app/app.exe
+app/*.exe
